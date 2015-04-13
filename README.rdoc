@@ -1,3 +1,6 @@
+![Completed Koans](/download/complete.png?raw=true "Mountains are again merely mountains")
+
+
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
