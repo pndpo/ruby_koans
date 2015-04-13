@@ -1,5 +1,12 @@
+These are my completed solutions to Ruby Koans
+
+The message displayed in my terminal:
 ![Completed Koans](/download/complete.png?raw=true "Mountains are again merely mountains")
 
+my solutions: https://github.com/pndpo/ruby_koans/tree/master/download/koans
+
+
+Below is the original README from https://github.com/neo/ruby_koans
 
  Neo Ruby Koans
 
