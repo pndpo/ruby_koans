@@ -1,4 +1,4 @@
-[Completed Koans](/download/complete.png?raw=true "Mountains are again merely mountains")
+![Completed Koans](/download/complete.png?raw=true "Mountains are again merely mountains")
 
 
 = Neo Ruby Koans
